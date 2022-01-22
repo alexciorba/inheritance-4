@@ -3,7 +3,7 @@ package com.company.model;
 public class Banana extends  Fruct{
      private  int nrSeminte;
      public Banana(String culoare,String denumire,int greutate,int nrSeminte){
-        super(culoare,"mar",greutate);
+        super(culoare,"banana",greutate);
         this.nrSeminte=nrSeminte;
 
     }

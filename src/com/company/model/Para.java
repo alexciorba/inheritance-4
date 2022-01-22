@@ -3,7 +3,7 @@ package com.company.model;
 public class Para extends  Fruct {
     private int nrSeminte;
     public Para(String culoare,String denumire,int greutate,int nrSeminte){
-        super(culoare,"mar",greutate);
+        super(culoare,"para",greutate);
         this.nrSeminte=nrSeminte;
 
     }
